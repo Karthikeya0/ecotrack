@@ -30,7 +30,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ecotrack.git
+   git clone https://github.com/Karthikeya0/ecotrack.git
    cd ecotrack
    ```
 
