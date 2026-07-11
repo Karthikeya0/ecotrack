@@ -1,4 +1,4 @@
-# EcoTrack 🌱
+# EcoTrack 
 
 **EcoTrack** is an AI-powered carbon footprint tracker designed to help individuals log their daily habits, calculate their real-time CO₂ emissions, and receive personalized eco-friendly suggestions. 
 
